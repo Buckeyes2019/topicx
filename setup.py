@@ -7,6 +7,5 @@ setup(name='topicx',
       author='Topicx Paper Authors',
       author_email='flyingcircus@example.com',
       license='MIT',
-      packages=['topicx'],
       install_requires=['octis', 'umap-learn', 'hdbscan', 'simcse==0.4', 'plotly', 'flair', 'gensim'],
       zip_safe=False)
